@@ -14,15 +14,15 @@ I'm a **Unity** and **C#** developer with **6+ years** of experience bringing ga
 
 - **Unity Mastery**  
   Extensive experience in developing **2D** and **3D** games using Unity, optimizing game performance, and delivering visually appealing experiences.  
-  ⚙️ **Key Skills**: Game Mechanics, Optimization, Visual Effects
+  ⚙️ **Key Skills**: Engine Knowledge, Performance Optimization
 
 - **C# Programming**  
   Proficient in **C#** for developing robust game systems, mechanics, and tools. I thrive on clean, efficient code that powers engaging gameplay.  
-  💻 **Key Skills**: Game Systems, Tools Development, Scripting
+  💻 **Key Skills**: Game Systems, Game Architecture, Performance Optimization, Tools Development, Scripting
 
 - **Team Collaboration**  
   Proven success in leading and collaborating with multidisciplinary teams to deliver high-quality, polished projects. I excel in fostering **creativity**, **efficiency**, and **innovation** in team environments.  
-  🤝 **Key Skills**: Team Leadership, Cross-Disciplinary Collaboration, Communication
+  🤝 **Key Skills**: Team Leadership, Cross-Disciplinary Collaboration, Mentorship, Problem-Solving, Agile Development
 
 ---
 
