@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Professional Unity Developer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Hello! I’m Berat 👋
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm a **Unity** and **C#** developer with **6+ years** of experience bringing game worlds to life. I specialize in creating immersive and fun experiences for **mobile**, **PC**, and other platforms, and I’m all about pushing the limits of what games can achieve. 🚀
 
-What else do you need?
+### Here's what I bring to the table:
 
-### My story
+🎮 **Unity Mastery**  
+From 2D platformers to immersive 3D adventures, I’ve got hands-on experience building optimized, visually stunning games with Unity. Let’s create something amazing! ✨
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+💻 **C# Programming**  
+I speak fluent C# and use it to craft smooth game mechanics, complex systems, and efficient tools that make the magic happen behind the scenes. 🔧
+
+🤝 **Team Collaboration**  
+Whether leading a talented team or collaborating with amazing individuals, I thrive on teamwork. Together, we bring ideas to life with a mix of creativity, efficiency, and innovation. 🔥
+
+I’m passionate about creating **memorable** and **fun** experiences that players can’t put down. Let’s connect and make something awesome! 🎉
+
+
