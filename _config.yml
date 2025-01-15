@@ -23,7 +23,6 @@ navbar-links:
   About Me: "aboutme"
   Portfolio: "portfolio"
   Resume: "resume"
-  Contact: "contact"
   
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
