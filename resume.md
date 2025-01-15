@@ -4,10 +4,6 @@ title: Resume
 subtitle: Lead | Senior Game Developer
 ---
 
-# Berat Mehmetoğlu
-
----
-
 ## Professional Summary
 I am a **Game Developer** with over **6 years** of experience in the game development industry. My expertise spans **Unity development**, **C# programming**, and **team collaboration**. I specialize in crafting innovative, engaging gameplay experiences for mobile, PC, and other platforms. I thrive in fast-paced, team-oriented environments where creativity and technical excellence come together to deliver high-quality games.
 
@@ -64,4 +60,4 @@ I am a **Game Developer** with over **6 years** of experience in the game develo
 
 ---
 
-📍**Istanbul,Turkey**
+📍Istanbul,Turkey
