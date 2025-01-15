@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Berat Mehmetoğlu
 subtitle: Lead | Senior Game Developer
 ---
 
